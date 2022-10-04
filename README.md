@@ -8,6 +8,7 @@ It's components for React, now is beta version, release will be come in future.
 - lodash(4.17.21)
 - moment(2.29.4)
 - classnames(2.3.2)
+- react-beautiful-dnd(13.1.1)
 ## Components Using
 
 component params guide.

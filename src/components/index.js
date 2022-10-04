@@ -7,5 +7,5 @@ import { Switch } from "./Switch";
 import { List } from "./List";
 import { Tab } from "./Tab";
 import { Tags } from "./Tags";
-import { DragnDrop } from "./DragnDrop"
-module.exports = { Button, DatePicker, DropInput, Input, Switch, List, Tab, Tags, DragnDrop };
+import { DragDrop } from "./DragDrop"
+module.exports = { Button, DatePicker, DropInput, Input, Switch, List, Tab, Tags, DragDrop };

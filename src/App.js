@@ -2,6 +2,7 @@ import "reset-css";
 import { useState } from "react";
 import { createGlobalStyle } from "styled-components";
 import { themes } from "./components/tools/themes";
+
 const GlobalStyle = createGlobalStyle`
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -18,8 +19,6 @@ export const App = () => {
   return (
     <>
       <GlobalStyle theme={theme} />
-      <div className="App">
-      </div>
     </>
   );
 };

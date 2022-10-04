@@ -1,6 +1,6 @@
 {
   "name": "adam-ui-beta",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "description": "adam ui(beta release)",
   "main": "dist/index.js",
   "private": false,
@@ -21,6 +21,7 @@
     "lodash": "^4.17.21",
     "moment": "^2.29.4",
     "react": "^18.2.0",
+    "react-beautiful-dnd": "^13.1.1",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",
     "react-scripts": "5.0.1",

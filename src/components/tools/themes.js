@@ -13,6 +13,7 @@ export const themes = {
     tabBG: '#cdcdcd',
     border: '#b5b5b5',
     dpOtherMonth: '#b3b3b3',
+    dndBG: '#d3d3d3'
   },
   dark: {
     body: '#2b2b2d',
@@ -28,5 +29,6 @@ export const themes = {
     tabBG: '#1e1e1e',
     border: '#b5b5b5',
     dpOtherMonth: '#b3b3b3',
+    dndBG: '#d3d3d3'
   }
 }

@@ -81,3 +81,12 @@ component params guide.
 | theme | light / dark | string |
 | width | [default: 600px] (number) + px / % / rem ...etc | string |
 | onClick | call your eventt, return: value | function |
+
+### 🍎 DragDrop
+
+| object | Params | Type |
+| ------ | ------ | ------ |
+| theme | light / dark | string |
+| containerWidth | [default: 280px] (number) + px / % / rem ...etc | string |
+| datalist | default: empty array (*inset must be use object: { title: "", list: [ ...drop data ] }*) | array |
+| onChange | call your eventt, return: value | function |

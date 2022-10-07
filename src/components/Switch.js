@@ -5,6 +5,7 @@ import { themes } from "./tools/themes";
 
 const StyledSwitch = styled.label`
   position: relative;
+  display:block ;
   width: ${({ props }) => `calc(${props.size} * 1.2)`};
   padding:2px ;
   box-sizing:border-box ;
